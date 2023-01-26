@@ -1,0 +1,25 @@
+p {
+  color: black;
+  font-family: "Abyssinica SIL";
+  text-align: left;
+}
+body{
+  background-image:url("https://images.unsplash.com/photo-1562622549-f22eac480f17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZGFyayUyMGZsb3dlcnxlbnwwfHwwfHw%3D&w=1000&q=80");
+}
+button{
+  border: black;
+  background-color: black
+  color: white;
+
+}
+table{
+  width:200 ;
+}
+th,td{
+  border: black;
+  text-align: center;
+
+}
+tr:nth-child(EVEN){
+  background-color: green;
+}
